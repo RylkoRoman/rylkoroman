@@ -1,6 +1,5 @@
-title: "My Minimal Blog"
-description: "A clean, lightweight blog for technical articles."
-author: Roman Rylko
+title: My GitHub Blog
+description: A simple blog powered by GitHub Pages and Jekyll
+baseurl: "" # оставляем пустым для корня
+url: "https://rylkoroman.github.io" # без слеша в конце
 theme: minima
-plugins:
-  - jekyll-feed
