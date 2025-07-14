@@ -1,6 +1,6 @@
 title: "My Minimal Blog"
 description: "A clean, lightweight blog for technical articles."
-author: Andrew Romanyuk
+author: Roman Rylko
 theme: minima
 plugins:
   - jekyll-feed
