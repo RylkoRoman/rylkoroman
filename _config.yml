@@ -2,4 +2,4 @@ title: My GitHub Blog
 description: A simple blog powered by GitHub Pages and Jekyll
 baseurl: "" # оставляем пустым для корня
 url: "https://rylkoroman.github.io" # без слеша в конце
-theme: minima
+theme: jekyll-theme-minimal
